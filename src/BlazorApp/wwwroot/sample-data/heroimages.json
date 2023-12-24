@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/sadieBKWY.JPG",
+    "alt": "worship concert viewed from side stage"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/garyAllan.jpg",
+    "alt": "night time rock concert"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/headshot.jpg",
+    "alt": "personal headshot on a sunny day"
   }
 ]
